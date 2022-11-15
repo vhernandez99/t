@@ -1,43 +1,13 @@
 import bgImg1 from '../images/background/bg-1.jpg';
-import bgImg2 from '../images/background/bg-3.jpg';
-import bgImg3 from '../images/background/bg-4.jpg';
 import img1 from '../images/common/itemslider.png';
 
 const dataSlider = [
     {
         id: 1,
-        title: 'EMPIRE NFT nft collectionS for everyone',
-        desc : 'Nulla ornare sagittis placerat nunc sit tempus enim. Accumsan pellentesque ipsum felis tristique at proin vel turpis.',
+        title: 'WELCOME TO',
+        desc : 'Los Pepes es una colección de activos digitales creada por Pepes Lab. Los titulares disfrutarán de increíbles utilidades como obsequios, descuentos en mercadería y eventos de música en vivo, lugar automático en la lista exclusiva para futuros lanzamientos de NFTs y más.',
         bgImg: bgImg1,
         img : img1
-    },
-    {
-        id: 2,
-        title: 'EMPIRE NFT nft collectionS for everyone',
-        desc : 'Nulla ornare sagittis placerat nunc sit tempus enim. Accumsan pellentesque ipsum felis tristique at proin vel turpis.',
-        bgImg: bgImg2,
-        classAction: 'two'
-    },
-    {
-        id: 3,
-        title: 'EMPIRE NFT nft collectionS for everyone',
-        desc : 'Nulla ornare sagittis placerat nunc sit tempus enim. Accumsan pellentesque ipsum felis tristique at proin vel turpis.',
-        bgImg: bgImg3,
-        classAction: 'three'
-    },
-    {
-        id: 4,
-        title: 'EMPIRE NFT nft collectionS for everyone',
-        desc : 'Nulla ornare sagittis placerat nunc sit tempus enim. Accumsan pellentesque ipsum felis tristique at proin vel turpis.',
-        bgImg: bgImg1,
-        img : img1
-    },
-    {
-        id: 5,
-        title: 'EMPIRE NFT nft collectionS for everyone',
-        desc : 'Nulla ornare sagittis placerat nunc sit tempus enim. Accumsan pellentesque ipsum felis tristique at proin vel turpis.',
-        bgImg: bgImg2,
-        classAction: 'two'
     },
 
 ]

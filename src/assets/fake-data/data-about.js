@@ -1,20 +1,11 @@
 const dataAbout = [
     {
         id: 1,
-        title: 'Unique, 1/1 generated',
-        desc: 'Gravida viverra dui aliquet eu tortor lorem et gravida. Sed amet phasellus tellus mauris auctor rhoncus. Malesuada nisl at mauris cursus lorem mattis arcu.',
+        title: 'PEPE’S LAB PASS',
+        desc: 'Built on the Ethereum blockchain, Pepe’s Lab Pass will give holders exclusive access to Pepe’s Lab and its branded projects. There will be a limited supply of 10,050 Pepe’s Lab Pass NFTs. There will be 14,500 Pepe’s Lab Pass and 500 Pepe’s Lab Pass (VIP) minted to the public. Fifty (50) of the VIP passes will be given out to influencers, collaborators, early supporters, and our team.',
         class: 'active'
     },
-    {
-        id: 2,
-        title: '140+ traits in 16 categories',
-        desc: 'Ornare faucibus urna, netus ut. Ac vulputate ornare donec orci sed gravida senectus. Felis quis morbi vivamus est eget sapien magnis quis.',
-    },
-    {
-        id: 3,
-        title: 'Usage rights included',
-        desc: 'Ac, bibendum duis gravida nullam. At amet nibh platea nibh interdum non, egestas bibendum iaculis. Etiam tristique ultricies tristique ullamcorper donec eget odio ut.',
-    },
+
 ]
 
 export default dataAbout;

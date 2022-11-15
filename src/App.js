@@ -7,6 +7,7 @@ import Footer from './components/footer';
 import '../src/assets/font/font-awesome.css'
 import routes from './pages';
 import Page404 from './pages/404';
+import HomeOne from "./pages/HomeOne";
 
 function App() {
 
@@ -18,20 +19,8 @@ function App() {
 
     return (
         <>
-
             <Header />
-
-            <Routes>
-
-                {
-                    routes.map((data,idx) => (
-                        <Route key={idx} path={data.path} element={data.component} exact />
-                    ))
-                }
-
-                <Route path='*' element={<Page404 />} />
-            </Routes>
-
+            <HomeOne/>
             <Footer />
         </>
     );

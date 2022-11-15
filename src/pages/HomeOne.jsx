@@ -20,6 +20,7 @@ import Partner from '../features/partner';
 import dataPartner from '../assets/fake-data/data-partner';
 import FAQ from '../features/faq';
 import dataFaq from '../assets/fake-data/data-faq';
+import NftItem from './NftItem';
 
 
 function HomeOne(props) {
@@ -34,13 +35,11 @@ function HomeOne(props) {
 
         <RoadMap data={dataRoadmap} />
 
-        <Work data={dataWork} />
-
         <Team data={dataTeam} />
 
-        <Blog data={dataBlog} />
-
         {/* <Partner data={dataPartner} /> */}
+
+        <NftItem/>
 
         <FAQ data={dataFaq} />
         

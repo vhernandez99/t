@@ -1,19 +1,10 @@
 const dataRoadmap = [
     {
         id: 1,
-        time: 'Q2 2022',
+        time: 'Merchandise 25%',
         list: [
             {
-                text: 'Aenean tempor'
-            },
-            {
-                text: 'Fusce arcu maecenas'
-            },
-            {
-                text: 'Malesuada felis sem elementum'
-            },
-            {
-                text: 'Risus eu metus'
+                text: 'The official release of Pepe’s Lab merchandise store.'
             },
         ],
         positon: 'left',
@@ -21,19 +12,10 @@ const dataRoadmap = [
     },
     {
         id: 2,
-        time: 'Q1 2022',
+        time: 'Pepe’s Lab 1st Event 50%',
         list: [
             {
-                text: 'Release website and logo'
-            },
-            {
-                text: 'Grow community'
-            },
-            {
-                text: 'Launch the project'
-            },
-            {
-                text: 'Social media setup'
+                text: 'We will start organizing our first live event for all the Pepe’s Lab Pass holders.'
             },
         ],
         positon: 'right',
@@ -41,155 +23,25 @@ const dataRoadmap = [
     },
     {
         id: 3,
-        time: 'Q4 2022',
+        time: 'Pepe’s Lab in the Metaverse 75%',
         list: [
             {
-                text: 'Aenean tempor'
-            },
-            {
-                text: 'Fusce arcu maecenas'
-            },
-            {
-                text: 'Malesuada felis sem elementum'
-            },
-            {
-                text: 'Risus eu metus'
+                text: 'We will acquire land in the Metaverse to build our very own entertainment complexes including arenas, lounges, and clubs.'
             },
         ],
-        positon: 'left'
+        positon: 'left',
+        style: 'normal'
     },
     {
         id: 4,
-        time: 'Q3 2022',
+        time: 'Create Pepe’s Lab Project Wallet 100%',
         list: [
             {
-                text: 'Aenean tempor'
-            },
-            {
-                text: 'Fusce arcu maecenas'
-            },
-            {
-                text: 'Malesuada felis sem elementum'
-            },
-            {
-                text: 'Risus eu metus'
+                text: 'After Pepe’s Lab Pass is sold-out we will allocate 50% of the funds into this wallet. We will use this wallet to fund our future projects and events.'
             },
         ],
-        positon: 'right'
-    },
-    {
-        id: 5,
-        time: 'Q2 2022',
-        list: [
-            {
-                text: 'Aenean tempor'
-            },
-            {
-                text: 'Fusce arcu maecenas'
-            },
-            {
-                text: 'Malesuada felis sem elementum'
-            },
-            {
-                text: 'Risus eu metus'
-            },
-        ],
-        positon: 'left'
-    },
-    {
-        id: 6,
-        time: 'Q1 2022',
-        list: [
-            {
-                text: 'Aenean tempor'
-            },
-            {
-                text: 'Fusce arcu maecenas'
-            },
-            {
-                text: 'Malesuada felis sem elementum'
-            },
-            {
-                text: 'Risus eu metus'
-            },
-        ],
-        positon: 'right'
-    },
-    {
-        id: 7,
-        time: 'Q4 2022',
-        list: [
-            {
-                text: 'Aenean tempor'
-            },
-            {
-                text: 'Fusce arcu maecenas'
-            },
-            {
-                text: 'Malesuada felis sem elementum'
-            },
-            {
-                text: 'Risus eu metus'
-            },
-        ],
-        positon: 'left'
-    },
-    {
-        id: 8,
-        time: 'Q3 2022',
-        list: [
-            {
-                text: 'Aenean tempor'
-            },
-            {
-                text: 'Fusce arcu maecenas'
-            },
-            {
-                text: 'Malesuada felis sem elementum'
-            },
-            {
-                text: 'Risus eu metus'
-            },
-        ],
-        positon: 'right'
-    },
-    {
-        id: 9,
-        time: 'Q2 2022',
-        list: [
-            {
-                text: 'Aenean tempor'
-            },
-            {
-                text: 'Fusce arcu maecenas'
-            },
-            {
-                text: 'Malesuada felis sem elementum'
-            },
-            {
-                text: 'Risus eu metus'
-            },
-        ],
-        positon: 'left'
-    },
-    {
-        id: 10,
-        time: 'Q1 2022',
-        list: [
-            {
-                text: 'Aenean tempor'
-            },
-            {
-                text: 'Fusce arcu maecenas'
-            },
-            {
-                text: 'Malesuada felis sem elementum'
-            },
-            {
-                text: 'Risus eu metus'
-            },
-        ],
-        positon: 'right'
+        positon: 'right',
+        style: 'normal'
     },
 ]
 
