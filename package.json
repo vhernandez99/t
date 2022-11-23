@@ -9,8 +9,6 @@
     "@testing-library/user-event": "^13.5.0",
     "@thirdweb-dev/react": "^3.4.2",
     "@thirdweb-dev/sdk": "^3.4.2",
-    "alchemy-sdk": "^2.2.0",
-    "all": "^0.0.0",
     "aos": "^2.3.4",
     "i18next": "^22.0.4",
     "react": "^18.0.0",

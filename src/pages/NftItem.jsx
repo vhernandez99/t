@@ -2,7 +2,6 @@ import React from 'react';
 import dataProject from '../assets/fake-data/dataProject';
 import PageTitle from '../components/pagetitle';
 import Project from '../features/project/nftitem';
-import { Network, Alchemy } from "alchemy-sdk";
 import { useState } from 'react';
 import { useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
