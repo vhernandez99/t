@@ -28,7 +28,30 @@ function HomeOne(props) {
     return (
         <div className='home-1'>
         <Slider data={dataSlider} />
+        <div className="md:w-4/4 mx-auto h-auto md:flex">
+        <div className="md:w-4/4 p-2 w-full text-white">
+          <div className="md:w-5/6 w-full  h-full mx-auto border-4 border-white rounded-md p-6 z-50">
+            <p className="text-xl mb-5 rougue letter tracking-[0.3rem] text-center">
+              
+            </p>
+            {/* <Web3Button
+            className=""
+            contractAddress={CONTRACT}
+            action = {
+              async (contract) => contract.claimTo(address, 1)
+            }
+            > {translate("mintnow")} </Web3Button> */}
 
+            <iframe
+              src="https://gateway.ipfscdn.io/ipfs/QmPaVYdGue8zEXFKqrtVHpvzBvufM1DYzw5n1of3KVPG88/signature-drop.html?contract=0x0046AC5AD2De7d5c9aeBeCf67751cB7e0865a0EB&chainId=1&theme=dark&primaryColor=cyan"
+              width="100%"
+              height="700px"
+              className="max-width:100%;"
+              frameBorder="0"
+            ></iframe>
+          </div>
+        </div>
+      </div>
         <About data={dataAbout} />
 
         {/* <Project data={dataProject} /> */}
