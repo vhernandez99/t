@@ -15,8 +15,8 @@ function RoadMap(props) {
 
     const [dataBlock] = useState(
         {
-            subtitle: 'ROADMAP',
-            title: 'EMPIRE NFT Timeline'
+            subtitle: 'Ruta de Metas',
+            title: 'Pepe’s Lab '
         }
     )
 
